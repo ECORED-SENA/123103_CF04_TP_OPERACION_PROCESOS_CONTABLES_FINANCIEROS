@@ -225,13 +225,142 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Acción correctiva',
+      significado:
+        'medida que se implementa para eliminar la causa de una desviación o no conformidad y evitar que vuelva a ocurrir.',
+    },
+    {
+      termino: 'Capacidad productiva',
+      significado:
+        'posibilidad real que tiene una operación para producir una cantidad determinada de bienes o servicios en un tiempo definido.',
+    },
+    {
+      termino: 'Cumplimiento',
+      significado:
+        'grado en que la producción ejecutada coincide con la programación o el plan establecido.',
+    },
+    {
+      termino: 'Desviación',
+      significado:
+        'diferencia identificada entre lo programado y lo ejecutado en variables como cantidad, tiempo, calidad o uso de recursos.',
+    },
+    {
+      termino: 'Eficiencia operativa',
+      significado:
+        'relación entre los resultados obtenidos y los recursos utilizados durante la ejecución de la producción.',
+    },
+    {
+      termino: 'Hallazgo',
+      significado:
+        'resultado documentado del análisis de una situación, evidencia o desviación detectada en el proceso productivo.',
+    },
+    {
+      termino: 'Indicador',
+      significado:
+        'medida cuantitativa o cualitativa que permite evaluar el desempeño de un proceso, una orden o un recurso.',
+    },
+    {
+      termino: 'Mejora continua',
+      significado:
+        'proceso permanente de revisión, ajuste y fortalecimiento de las actividades productivas para lograr mejores resultados.',
+    },
+    {
+      termino: 'Oportunidad de mejora',
+      significado:
+        'situación o aspecto del proceso en el que es posible intervenir para aumentar el desempeño, reducir pérdidas o fortalecer el control.',
+    },
+    {
+      termino: 'Productividad',
+      significado:
+        'relación entre la cantidad producida y los recursos empleados para obtenerla, como tiempo, mano de obra o maquinaria.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Álvarez, C. A. (2015). Metodología de implementación de Kaizen y 7 desperdicios para Tablemac S.A.-Planta de Yarumal. Universidad EAFIT.',
+      link: '',
+    },
+    {
+      referencia:
+        'Álvarez, F. M. (2024). Diseño de plan de mejoramiento continuo del sistema de producción de una empresa de artes gráficas soportado en la metodología DMAIC. Universidad Autónoma de Occidente.',
+      link: '',
+    },
+    {
+      referencia:
+        'Betancurt, C. A. (2023). Aplicación del indicador de eficiencia de equipos OEE para el área de inyección como una forma de optimizar los procesos y recursos en la empresa Inversiones Pérez Vélez S.A.S. Universidad Nacional Abierta y a Distancia (UNAD).',
+      link: '',
+    },
+    {
+      referencia:
+        'Cabezón Gutiérrez, S. (2014, agosto). Control de calidad en la producción industrial.',
+      link: 'https://uvadoc.uva.es/bitstream/handle/10324/13153/TFG-I-174.pdf',
+    },
+    {
+      referencia:
+        'Cárdenas, N. P. (2024). Estrategias de mejora continua basadas en metodología Lean Management y Six Sigma. Universidad de Antioquia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Díaz, J. J. (2024). Plan de mejoramiento continuo para la gestión de las áreas funcionales de la empresa Ingarqcol S.A.S.',
+      link: '',
+    },
+    {
+      referencia:
+        'Forero, L. V., & Moreno, R. E. (2015). Diseño de un sistema de indicadores de gestión y control de las materias primas críticas para el área de ingeniería industrial en la fábrica de explosivos Antonio Ricaurte. Universidad Libre de Colombia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Gamarra, C. A. (2024). Optimización de operaciones y recursos de producción en la línea de retail de la planta de manufactura de la empresa Azembla S.A.S. para incrementar la productividad y eficiencia y disminuir los costos de producción. Universidad Nacional Abierta y a Distancia (UNAD).',
+      link: '',
+    },
+    {
+      referencia:
+        'García, M. A. (2023). Implementación de una metodología de mejora continua en las zonas de producción A, B y C de la Compañía Nacional de Chocolates sede Rionegro. Universidad de Antioquia.',
+      link: '',
+    },
+    {
+      referencia:
+        'Giménez, E. A. (2017). Sistema de gestión interna de la calidad. Universitat Oberta de Catalunya.',
+      link: '',
+    },
+    {
+      referencia:
+        'Goicoechea, I. E. (2013). La gestión de las operaciones. Universitat Oberta de Catalunya.',
+      link: '',
+    },
+    {
+      referencia:
+        'Guataquira, R. A. (2021). Implementación del plan de mejoramiento para el proceso de producción de botellas PET aplicando la metodología Kaizen. Institución Universitaria Antonio José Camacho.',
+      link: '',
+    },
+    {
+      referencia:
+        'Higuita, A. C. (2024). Implementación de procesos de mejora continua que impacten positivamente el indicador OEE en las plantas líquidas de AkzoNobel-Pintuco Rionegro. Universidad de Antioquia.',
+      link:
+        'https://bibliotecadigital.udea.edu.co/server/api/core/bitstreams/1d4e68ba-fca3-420f-9345-611f35f81a77/content',
+    },
+    {
+      referencia:
+        'Hoyos, C. I. (2021). Implementación y seguimiento de indicadores de gestión para el mejoramiento. Universitaria Agustiniana.',
+      link:
+        'https://backend.uniagustiniana.edu.co/server/api/core/bitstreams/07a6499c-6a22-4e2a-8246-cb9a668dad25/content',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Salud. (2025, octubre 3). Proceso de producción.',
+      link: 'https://www.ins.gov.co/conocenos/sig/SIG/POE-R04.0000-007.pdf',
+    },
+    {
+      referencia:
+        'Salas, J. D. (2024). Implementación de indicadores en el área de producción en la empresa Diseños y Soluciones Industriales S.A.S. Universidad Nacional Abierta y a Distancia (UNAD).',
+      link: '',
+    },
+    {
+      referencia:
+        'Zambrano Valdivieso, O., & Sánchez, J. (2018). Mejora continua en productividad organizacional y su impacto en colaboradores. Desarrollo Gerencial, 10(2), 83–102.',
       link: '',
     },
   ],
