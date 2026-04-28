@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Análisis del desempeño y mejora continua en la producción',
     Description:
-      'En este componente el aprendiz utiliza herramientas para analizar el comportamiento real de la producción, contrastar lo programado con lo ejecutado e interpretar indicadores, tiempos y uso de recursos. Con este análisis identifica desviaciones, reconoce sus causas y convierte los datos en evidencia para evaluar el desempeño operativo, registrar hallazgos y sustentar decisiones de mejora del plan productivo general continuo.',
+      'En este componente, el aprendiz utiliza herramientas para analizar el comportamiento real de la producción, contrastar lo programado con lo ejecutado e interpretar indicadores, tiempos y uso de recursos. Con este análisis identifica desviaciones, reconoce sus causas y convierte los datos en evidencia para evaluar el desempeño operativo, registrar hallazgos y sustentar decisiones de mejora del plan productivo general continuo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -172,7 +172,7 @@ export default {
           },
           {
             numero: '5.4',
-            titulo: 'Documentación y cultura de mejora continua',
+            titulo: 'Monitoreo de las mejoras',
             hash: 't_5_4',
           },
           {

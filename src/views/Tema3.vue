@@ -40,7 +40,7 @@
     Separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Oportunidades de mejora en los procesos de programación y ejecución
-    p.mb-5 Las oportunidades de mejora se identifican a partir de brechas entre lo esperado y lo obtenido en la producción. Estas pueden presentarse en #[b retrasos, paros, desperdicios, sobreconsumo de materiales, tiempos de ciclo elevados, cambios frecuentes de referencia o baja utilización de recursos](García, 2023).  Estas situaciones pueden analizarse como puntos de intervención dentro del proceso productivo:
+    p.mb-5 Las oportunidades de mejora se identifican a partir de brechas entre lo esperado y lo obtenido en la producción. Estas pueden presentarse en #[b retrasos, paros, desperdicios, sobreconsumo de materiales, tiempos de ciclo elevados, cambios frecuentes de referencia o baja utilización de recursos] (García, 2023).  Estas situaciones pueden analizarse como puntos de intervención dentro del proceso productivo:
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img1.jpg')})`}"
@@ -56,7 +56,7 @@
             span.fa-li
               i.fas.fa-check-circle
             | 
-            p.mb-0 #[b Retrasos por falta de insumos] pueden relacionarse con abastecimiento. 
+            p.mb-0 #[b Retrasos por falta de insumos] pueden relacionarse con el abastecimiento. 
           li.mb-0.ajuste---li.d-flex
             span.fa-li
               i.fas.fa-check-circle
@@ -416,15 +416,15 @@
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Balanceo de cargas: distribuir el trabajo para evitar cuellos de botella.
+              | #[b Balanceo de cargas]: distribuir el trabajo para evitar cuellos de botella.
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Paralelización:	ejecutar actividades compatibles de forma simultánea.
+              | #[b Paralelización]:	ejecutar actividades compatibles de forma simultánea.
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Coordinación de recursos: sincronizar tareas, materiales y equipos en el proceso.
+              | #[b Coordinación de recursos]: sincronizar tareas, materiales y equipos en el proceso.
         .col-xl-auto.order-1.order-lg-2
           figure
             img(src='@/assets/curso/tema3/img26.png', alt='').m-auto

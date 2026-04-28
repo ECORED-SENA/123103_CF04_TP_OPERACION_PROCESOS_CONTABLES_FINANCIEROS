@@ -160,7 +160,7 @@
               figure.mb-4
                 img(src='@/assets/curso/tema1/img10.png', alt="" ).m-auto
             h4.text-center Variación de tiempo
-            p.mb-0.text-center Diferencia entre el tiempo real de ejecución y el tiempo estándar o programado. Permite identificar desviaciones en duración de las operaciones.
+            p.mb-0.text-center Diferencia entre el tiempo real de ejecución y el tiempo estándar o programado. Permite identificar desviaciones en la duración de las operaciones.
     p.mb-5 Cuando estas variaciones se revisan de forma periódica, es posible identificar comportamientos recurrentes en la producción. Por ejemplo, si una línea presenta menor producción de manera repetida en un mismo día de la semana, la información permite orientar la revisión hacia factores como arranque, disponibilidad de personal o abastecimiento (Forero y Moreno, 2015).
     .row.justify-content-center.mb-5
       .col-xl-10
@@ -259,7 +259,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-xl.mb-4.mb-lg-0(data-aos="fade-right")
         .caja-tema1-7
-          p.mb-0 Las #[b métricas de eficiencia operativa] permiten evaluar qué tan bien se están aprovechando los recursos durante la ejecución. Mientras el cumplimiento responde a la pregunta “#[b ¿se logró lo planeado?]”, la eficiencia se enfoca en “#[b ¿con qué nivel de aprovechamiento se logró o no se logró?]”. En entornos productivos, estas métricas se analizan mediante indicadores como #[b productividad, utilización, eficiencia de mano de obra y eficiencia global de equipos] (Betancurt, 2023).
+          p.mb-0 Las #[b métricas de eficiencia operativa] permiten evaluar qué tan bien se están aprovechando los recursos durante la ejecución. Mientras el cumplimiento responde a la pregunta “#[b ¿Se logró lo planeado?]”, la eficiencia se enfoca en “#[b ¿Con qué nivel de aprovechamiento se logró o no se logró?]”. En entornos productivos, estas métricas se analizan mediante indicadores como #[b productividad, utilización, eficiencia de mano de obra y eficiencia global de equipos] (Betancurt, 2023).
       .col-xl-auto.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/tema1/img14.jpg', alt='').m-auto
@@ -351,7 +351,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La eficiencia global de los equipos, conocida como OEE por su sigla en inglés, integra tres dimensiones: disponibilidad, rendimiento y calidad. Es una métrica muy usada para revisar el desempeño de máquinas o líneas porque no se queda solo en cuántas horas estuvieron activas, sino que también considera si produjeron a la velocidad esperada y con qué proporción de producto conforme. En aplicaciones industriales en español, el OEE se usa como base para seguimiento y mejora continua del rendimiento de planta. (Betancurt, 2023).
-    p.mb-5 Su utilidad práctica está en que resume, en un solo indicador, varias pérdidas del proceso. Una línea puede tener buena disponibilidad pero mal rendimiento, o puede operar rápido con baja calidad. El OEE ayuda a ver ese efecto conjunto y a priorizar dónde actuar primero. Por eso, suele combinarse con tableros diarios y reuniones de seguimiento en áreas productivas. (Betancurt, 2023).
+    p.mb-5 Su utilidad práctica está en que resume, en un solo indicador, varias pérdidas del proceso. Una línea puede tener buena disponibilidad, pero mal rendimiento, o puede operar rápido con baja calidad. El OEE ayuda a ver ese efecto conjunto y a priorizar dónde actuar primero. Por eso, suele combinarse con tableros diarios y reuniones de seguimiento en áreas productivas. (Betancurt, 2023).
     .row.justify-content-center.mb-0
       .col-xl-10
         .caja-tema1-3(data-aos="flip-up")
@@ -613,7 +613,7 @@
             h4.mb-4 Pódcast
             TarjetaAudio.color-acento-contenido.mb-3(
               texto="Medición del desempeño productivo"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/curso/podcast/OPERACION DE PROCESOS CONTABLES Y FINANCIEROS.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-xl-auto.d-none.d-xl-block

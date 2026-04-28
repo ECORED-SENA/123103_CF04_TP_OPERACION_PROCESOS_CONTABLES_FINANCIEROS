@@ -557,7 +557,7 @@
           span Ejemplo de diagrama causa-efecto para una desviación de producción
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema2/img30.png', alt='Diagrama causa-efecto sobre el incumplimiento de una orden de producción, con causas agrupadas en método, materiales, máquina, mano de obra, medición y entorno para facilitar el análisis de la causa raíz. ').m-auto
-    p.mb-5 El análisis de desviaciones y el control de calidad permiten examinar las diferencias entre lo programado y lo ejecutado considerando no solo cantidades y tiempos, sino también condiciones del proceso, uso de recursos y cumplimiento de especificaciones. En términos operativos, este proceso implica:
+    p.mb-5 El análisis de desviaciones y el control de calidad permiten examinar las diferencias entre lo programado y lo ejecutado, considerando no solo cantidades y tiempos, sino también condiciones del proceso, uso de recursos y cumplimiento de especificaciones. En términos operativos, este proceso implica:
     .caja-tema2.mb-5(data-aos="zoom-in")
       .row.align-items-center
         .col-xl-auto

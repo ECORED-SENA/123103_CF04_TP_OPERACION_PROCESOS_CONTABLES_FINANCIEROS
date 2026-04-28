@@ -419,19 +419,19 @@
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Recursos: materiales, tiempo, herramientas, formatos o espacios requeridos.
+              | #[b Recursos]: materiales, tiempo, herramientas, formatos o espacios requeridos.
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Responsable líder: persona encargada de coordinar la actividad.
+              | #[b Responsable líder]: persona encargada de coordinar la actividad.
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Participantes: personas que ejecutan la acción.
+              | #[b Participantes]: personas que ejecutan la acción.
             li.mb-0
               span.fa-li
                 i.fas.fa-check-circle
-              | Verificación: responsable de validar el cumplimiento y resultado.
+              | #[b Verificación]: responsable de validar el cumplimiento y resultado.
         .col-xl-auto.order-1.order-lg-2
           figure
             img(src='@/assets/curso/tema4/img23.png', alt='').m-auto

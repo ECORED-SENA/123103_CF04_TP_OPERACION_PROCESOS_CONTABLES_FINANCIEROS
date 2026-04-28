@@ -228,7 +228,7 @@
           figure
             img(src='@/assets/curso/tema5/img11.png', alt='').m-auto
         .col-xl
-          p Después de implementar una mejora, el proceso necesita monitoreo periódico. Esto significa revisar si el cambio sigue funcionando después de los primeros días, si el equipo lo está aplicando de la misma manera y si los indicadores mantienen una tendencia favorable. En proyectos orientados a sostenibilidad y desempeño se recomienda justamente combinar monitoreo continuo, informes periódicos y ajustes necesarios para alcanzar los objetivos planteados.
+          p Después de implementar una mejora, el proceso necesita monitoreo periódico. Esto significa revisar si el cambio sigue funcionando después de los primeros días, si el equipo lo está aplicando de la misma manera y si los indicadores mantienen una tendencia favorable. En proyectos orientados a sostenibilidad y desempeño, se recomienda justamente combinar monitoreo continuo, informes periódicos y ajustes necesarios para alcanzar los objetivos planteados.
           p.mb-0.ajuste-caja-2p La sostenibilidad de una mejora depende mucho de este monitoreo. Muchas acciones presentan buenos resultados durante la primera semana porque reciben atención especial, pero luego se debilitan cuando se pierde seguimiento. Por eso, el ajuste periódico es necesario: permite corregir desviaciones de la propia mejora, reforzar la disciplina del equipo y evitar que el proceso regrese a la práctica anterior. (García, 2023).
     .caja-tema1-1.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -287,7 +287,7 @@
                     td.texto-left Aclarar responsabilidades
         Separador
         #t_5_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 5.4 Documentación y cultura de mejora continua
+          h2 5.4 Monitoreo de las mejoras
         p.mb-5 El #[b monitoreo de las mejoras] permite verificar si los cambios implementados mantienen su efecto en el tiempo y si continúan aplicándose de forma consistente en la operación. Este seguimiento se realiza mediante la revisión periódica de:
     .caja-tema2.mb-5(data-aos="zoom-in")
       .row.align-items-center
