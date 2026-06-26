@@ -21,7 +21,7 @@ export default {
         'Cuestionario de verificación sobre análisis del desempeño y mejora continua en la producción',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los temas del componente relacionados con el análisis del desempeño y la mejora continua en la producción.',
+        '<b>Objetivo:</b> evaluar la comprensión de los temas del componente relacionados con el análisis del desempeño y la mejora continua en la producción.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

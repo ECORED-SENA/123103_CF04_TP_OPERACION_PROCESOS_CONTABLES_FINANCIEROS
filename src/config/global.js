@@ -209,7 +209,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/123103_CF4_DU.pdf',
+        download: 'downloads/123103_CF04_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -370,7 +370,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
+          cargo:
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -385,7 +386,7 @@ export default {
       autores: [
         {
           nombre: 'Paola Andrea Tello Zambrano',
-          cargo: 'Experto temático',
+          cargo: 'Experta temática',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -431,6 +432,12 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor audiovisual',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
           nombre: 'Maria Carolina Tamayo Lopez',
           cargo: 'Locución',
           centro:
@@ -448,7 +455,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Javier Ricardo Ortiz Puentes',
+          nombre: 'Ricardo Oliveros Zambrano',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

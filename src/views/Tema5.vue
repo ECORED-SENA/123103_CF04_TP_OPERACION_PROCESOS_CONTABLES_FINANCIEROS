@@ -35,7 +35,7 @@
     p.mb-5 A continuación, se presenta un video  sobre los indicadores de seguimiento en la mejora de procesos productivos, con el propósito de analizar su función, clasificación y aplicación en la evaluación de resultados posteriores a la implementación de mejoras.
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/9HD7CTW_cUg?si=OC3rkdvPtuGBI2yB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") #[b Video]. Indicadores de seguimiento a las mejoras implementadas.
     .bg-1
       .px-5
